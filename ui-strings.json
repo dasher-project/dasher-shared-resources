@@ -1519,6 +1519,9 @@
       "zh-CN": "控制模式",
       "zu": "Imodi yokulawula"
     },
+    "control_nodes_tooltip": {
+      "en": "Control nodes: move, delete, speak, pause"
+    },
     "copied_to_clipboard": {
       "af": "Knyp gekopiëerde aan knipbord",
       "ar": "منسوخة إلى الحافظة.",
