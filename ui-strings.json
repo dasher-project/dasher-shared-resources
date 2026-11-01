@@ -473,7 +473,7 @@
       "zu": "Yabelana ngokuhlaziywa okungaziwa kanye nemibiko yokuphahlazeka"
     },
     "analytics_rationale": {
-      "en": "Dasher collects anonymous, privacy-respecting analytics to understand usage patterns and fix crashes."
+      "en": "Dasher collects anonymous, privacy-respecting analytics to understand usage patterns and fix crashes. No typed text, clipboard contents, or personal information is ever collected.\n\nYou can change this anytime in Settings > Privacy."
     },
     "analytics_reset_id": {
       "af": "Stel analitiese ID terug",
@@ -511,7 +511,7 @@
       "zu": "Setha kabusha i-ID yokuhlaziya"
     },
     "analytics_settings_help": {
-      "en": "Dasher collects anonymous usage analytics and crash reports to understand how the app is used and to fix bugs."
+      "en": "Dasher collects anonymous usage analytics and crash reports to understand how the app is used and to fix bugs. No typed text, clipboard contents, or personal information is ever collected."
     },
     "analytics_title": {
       "en": "Help improve Dasher?",
