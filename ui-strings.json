@@ -472,6 +472,9 @@
       "zh-CN": "分享匿名分析和崩溃报告",
       "zu": "Yabelana ngokuhlaziywa okungaziwa kanye nemibiko yokuphahlazeka"
     },
+    "analytics_rationale": {
+      "en": "Dasher collects anonymous, privacy-respecting analytics to understand usage patterns and fix crashes."
+    },
     "analytics_reset_id": {
       "af": "Stel analitiese ID terug",
       "ar": "إعادة تعيين التحليلات",
@@ -506,6 +509,9 @@
       "ur": "تجزیاتی ID کو دوبارہ ترتیب دیں۔",
       "zh-CN": "重置分析 ID",
       "zu": "Setha kabusha i-ID yokuhlaziya"
+    },
+    "analytics_settings_help": {
+      "en": "Dasher collects anonymous usage analytics and crash reports to understand how the app is used and to fix bugs."
     },
     "analytics_title": {
       "en": "Help improve Dasher?",
@@ -617,6 +623,18 @@
     },
     "app_name": {
       "en": "Dasher"
+    },
+    "arrow_left_label": {
+      "en": "Left"
+    },
+    "arrow_left_tooltip": {
+      "en": "Move caret left (hold to repeat)"
+    },
+    "arrow_right_label": {
+      "en": "Right"
+    },
+    "arrow_right_tooltip": {
+      "en": "Move caret right (hold to repeat)"
     },
     "auto": {
       "af": "Outomaties",
@@ -747,6 +765,15 @@
       "ur": "چوٹکی کرتے وقت اپنی نگاہیں ٹھیک کرنے کے بعد خودکار طور پر منتخب کریں۔ صرف اس صورت میں فعال کریں جب OS ڈویل آف ہو۔",
       "zh-CN": "捏合时注视后自动选择。仅当操作系统停留关闭时才启用。",
       "zu": "Khetha ngokuzenzakalelayo ngemva kokulungisa amehlo akho ngenkathi ucindezela. Vumela kuphela uma i-OS dwell ivaliwe."
+    },
+    "back": {
+      "en": "Back"
+    },
+    "backspace_label": {
+      "en": "Del"
+    },
+    "backspace_tooltip": {
+      "en": "Delete (hold to repeat)"
     },
     "cancel": {
       "af": "Kanselleer",
@@ -993,6 +1020,9 @@
       "zh-CN": "关闭",
       "zu": "Vala"
     },
+    "close_settings": {
+      "en": "Close settings"
+    },
     "colour_theme": {
       "af": "Kleurtema",
       "ar": "نظام الألوان",
@@ -1031,6 +1061,15 @@
     "contents_or_personal_information_is_ever_collected_you_can_c": {
       "en": "contents or personal information is ever collected. You can change this any ",
       "fr": "contenu du presse-papiers ni information personnelle n'est collecté. Vous pouvez modifier ce choix à tout "
+    },
+    "control": {
+      "en": "Control"
+    },
+    "control_mode_enabled": {
+      "en": "Control mode: enabled"
+    },
+    "control_mode_tooltip": {
+      "en": "Control mode"
     },
     "copied_to_clipboard": {
       "af": "Knyp gekopiëerde aan knipbord",
@@ -1171,6 +1210,9 @@
       "zh-CN": "全部复制",
       "zu": "Kopisha Konke"
     },
+    "copy_all_clipboard": {
+      "en": "Copy all (to clipboard)"
+    },
     "copy_commands": {
       "af": "Kopieer opdragte",
       "ar": "نسخ الأوامر",
@@ -1205,6 +1247,9 @@
       "ur": "کمانڈز کاپی کریں۔",
       "zh-CN": "复制命令",
       "zu": "Kopisha imiyalo"
+    },
+    "copy_selection": {
+      "en": "Copy selection"
     },
     "could_not_load_the_file_into_the_engine": {
       "en": "Could not load the file into the engine"
@@ -1362,6 +1407,21 @@
       "ur": "ڈیشر",
       "zh-CN": "冲锋者",
       "zu": "I-Dasher"
+    },
+    "dasher5_config_found": {
+      "en": "We found your Dasher 5 configuration"
+    },
+    "dasher5_import": {
+      "en": "Dasher 5 Import"
+    },
+    "dasher5_import_prompt": {
+      "en": "Would you like to import these settings into Dasher 6?"
+    },
+    "dasher5_no_data": {
+      "en": "No Dasher 5 data found on this computer."
+    },
+    "dasher5_settings_found": {
+      "en": "Dasher 5 settings found"
     },
     "dasher_5_data_detected_on_this_mac": {
       "af": "Dasher 5-data is op hierdie Mac opgespoor.",
@@ -1537,6 +1597,9 @@
       "ur": "Dasher استعمال کے نمونوں کو سمجھنے اور کریشوں کو ٹھیک کرنے کے لیے گمنام، رازداری کا احترام کرنے والے تجزیات جمع کرتا ہے۔ کوئی بھی ٹائپ شدہ متن، کلپ بورڈ مواد، یا ذاتی معلومات کبھی جمع نہیں کی جاتی ہیں۔\n\nآپ اسے ترتیبات > رازداری میں کسی بھی وقت تبدیل کر سکتے ہیں۔",
       "zh-CN": "Dasher 收集匿名、尊重隐私的分析，以了解使用模式并修复崩溃。不会收集任何键入的文本、剪贴板内容或个人信息。\n\n您可以随时在“设置”>“隐私”中更改此设置。",
       "zu": "I-Dasher iqoqa ukuhlaziya okungaziwa, okuhlonipha ubumfihlo ukuze iqonde amaphethini okusetshenziswa futhi ilungise ukuphahlazeka. Akukho mbhalo othayishiwe, okuqukethwe kwebhodi lokunamathisela, noma ulwazi lomuntu siqu oluqoqwayo.\n\nUngashintsha lokhu noma nini kuzilungiselelo > Ubumfihlo."
+    },
+    "dasher_engine_error": {
+      "en": "Dasher Engine Error"
     },
     "dasher_keyboard": {
       "af": "Dasher-sleutelbord",
@@ -2045,6 +2108,18 @@
       "zh-CN": "首先启用倾斜输入以访问校准。",
       "zu": "Nika amandla okokufaka kokuthambekela kuqala ukuze ufinyelele ekulinganisweni."
     },
+    "engine_error": {
+      "en": "Engine Error"
+    },
+    "engine_error_message": {
+      "en": "The Dasher engine encountered an internal error and has stopped. Please restart Dasher."
+    },
+    "engine_speech_features": {
+      "en": "Engine Speech Features"
+    },
+    "exit": {
+      "en": "Exit"
+    },
     "export_training_text": {
       "af": "Voer opleidingsteks uit",
       "ar": "تصدير نص التدريب",
@@ -2114,6 +2189,12 @@
       "ur": "آنکھ کی نگاہ",
       "zh-CN": "目光凝视",
       "zu": "Ukubuka Kwamehlo"
+    },
+    "eye_tracker_device": {
+      "en": "Eye Tracker Device"
+    },
+    "eyegaze_verbose_help": {
+      "en": "Detailed tracking log for bug reports (per-sample lines, written to eyegaze.log in the Dasher folder). Basic connection events are always logged."
     },
     "failed_to_open": {
       "af": "Kon nie spel open nie: %s",
@@ -2400,6 +2481,15 @@
       "ur": "کھیل ہی کھیل میں ٹیکسٹ فائل",
       "zh-CN": "游戏文本文件",
       "zu": "Ifayela Lombhalo Lomdlalo"
+    },
+    "gaze_filter_help": {
+      "en": "Reduces zoom toward wrong positions while your eyes move to a target"
+    },
+    "gaze_filter_label": {
+      "en": "Filter gaze (reduces zoom toward wrong positions during eye transit)"
+    },
+    "gaze_smoothing": {
+      "en": "Gaze Smoothing"
     },
     "got_it": {
       "af": "Verstaan",
@@ -2816,6 +2906,9 @@
       "zh-CN": "触摸（在画布上拖动）",
       "zu": "Thinta (hudula kukhanvasi)"
     },
+    "input_processing": {
+      "en": "Input Processing"
+    },
     "install_dasher_via_your_package_manager_or_build_from_source": {
       "en": "Install Dasher via your package manager or build from source to use keyboard mode.",
       "fr": "Installez Dasher via votre gestionnaire de paquets ou compilez depuis les sources pour utiliser le mode clavier."
@@ -3113,6 +3206,9 @@
       "zh-CN": "启用键盘模式",
       "zu": "Nika amandla imodi yekhibhodi"
     },
+    "keyboard_mode_transparency_help": {
+      "en": "Window transparency when in Keyboard/Direct mode"
+    },
     "keyboard_mode_types_dasher_s_output_into_other_applications_": {
       "en": "Keyboard mode types Dasher's output into other applications using ydotool, which ",
       "fr": "Le mode clavier saisit la sortie de Dasher dans d'autres applications via ydotool, qui "
@@ -3402,6 +3498,9 @@
       "zh-CN": "学习",
       "zu": "Ukufunda"
     },
+    "leave": {
+      "en": "Leave"
+    },
     "leave_game_mode": {
       "af": "Verlaat spelmodus",
       "ar": "الخروج من وضع اللعبة",
@@ -3471,8 +3570,14 @@
       "zh-CN": "光",
       "zu": "Ukukhanya"
     },
+    "load_voices": {
+      "en": "Load Voices"
+    },
     "loaded_1_characters": {
       "en": "Loaded %1 characters"
+    },
+    "loading": {
+      "en": "Loading…"
     },
     "locale": {
       "af": "Taal",
@@ -3575,6 +3680,12 @@
       "zh-CN": "迁移",
       "zu": "Ukufuduka"
     },
+    "more": {
+      "en": "More"
+    },
+    "more_options": {
+      "en": "More options"
+    },
     "move_your_eyes_while_pinching_to_steer": {
       "af": "Beweeg jou oë terwyl jy knyp om te stuur",
       "ar": "حرك عينيك أثناء الضغط على زر التكبير/التصغير للتوجيه",
@@ -3643,6 +3754,9 @@
       "ur": "نیا",
       "zh-CN": "新的",
       "zu": "Okusha"
+    },
+    "new_document": {
+      "en": "New document"
     },
     "new_message": {
       "af": "Nuwe Boodskap",
@@ -4199,6 +4313,9 @@
       "zh-CN": "输出",
       "zu": "Umphumela"
     },
+    "output_font": {
+      "en": "Output Font"
+    },
     "output_font_size": {
       "af": "Uitvoer lettergrootte",
       "ar": "حجم خط الإخراج",
@@ -4267,6 +4384,9 @@
       "ur": "لکھنا شروع کرنے کے لیے کینوس کو چھوئے۔",
       "zh-CN": "点击画布开始书写。",
       "zu": "Thinta ikhanvasi ukuze uqale ukubhala."
+    },
+    "pane_position": {
+      "en": "Pane position"
     },
     "paste": {
       "af": "Plak",
@@ -4439,6 +4559,9 @@
       "zh-CN": "捏捏并看着写",
       "zu": "Cindezela bese ubheka ukuthi ubhale ini"
     },
+    "pitch": {
+      "en": "Pitch"
+    },
     "play": {
       "en": "Game"
     },
@@ -4579,6 +4702,9 @@
       "zh-CN": "正在准备 Dasher…",
       "zu": "Kulungiselela i-Dasher…"
     },
+    "preview": {
+      "en": "Preview"
+    },
     "privacy": {
       "af": "Privaatheid",
       "ar": "خصوصية",
@@ -4644,6 +4770,12 @@
       "ur": "<b>رازداری</b>",
       "zh-CN": "<b>隐私</b>",
       "zu": "<b>Ubumfihlo</b>"
+    },
+    "quick_speak": {
+      "en": "Quick speak"
+    },
+    "rate": {
+      "en": "Rate"
     },
     "re_import_from_dasher_5": {
       "af": "Herinvoer vanaf Dasher 5",
@@ -5063,6 +5195,12 @@
       "zh-CN": "重置训练数据？",
       "zu": "Setha kabusha idatha yokuqeqesha?"
     },
+    "reset_wpm_averages": {
+      "en": "Reset WPM averages"
+    },
+    "restarting_engine": {
+      "en": "Restarting engine…"
+    },
     "restore_all_dasher_settings_to_their_default_values_this_can": {
       "af": "Stel alle Dasher-instellings terug na hul verstekwaardes. Dit kan nie ongedaan gemaak word nie.",
       "ar": "أعد ضبط جميع إعدادات Dasher إلى قيمها الافتراضية. لا يمكن التراجع عن هذا الإجراء.",
@@ -5203,6 +5341,9 @@
       "zh-CN": "节省...",
       "zu": "Londoloza..."
     },
+    "save_eye_tracker_diagnostics": {
+      "en": "Save eye-tracker diagnostics"
+    },
     "save_failed": {
       "af": "Stoor het misluk",
       "ar": "فشلت عملية الحفظ",
@@ -5236,6 +5377,9 @@
       "ur": "محفوظ کرنا ناکام ہو گیا۔",
       "zh-CN": "保存失败",
       "zu": "Ukulondoloza kwehlulekile"
+    },
+    "save_file": {
+      "en": "Save file"
     },
     "save_text_file": {
       "af": "Stoor Teks Lêer",
@@ -5375,6 +5519,9 @@
       "ur": "اسکین کی رفتار",
       "zh-CN": "扫描速度",
       "zu": "Isivinini Sokuskena"
+    },
+    "selection_method": {
+      "en": "Selection Method"
     },
     "service_running_see_the_setup_help_on_the_keyboard_button_fo": {
       "en": "service running? See the setup help on the Keyboard button for install commands.",
@@ -5661,6 +5808,9 @@
       "zh-CN": "显示输入调试覆盖",
       "zu": "Bonisa i-Input Debug Overlay"
     },
+    "show_status_bar": {
+      "en": "Show status bar"
+    },
     "show_typing_rate_wpm": {
       "af": "Wys tikspoed (WPM)",
       "ar": "عرض معدل الكتابة (كلمة في الدقيقة)",
@@ -5800,6 +5950,12 @@
       "ur": "سست",
       "zh-CN": "慢的",
       "zu": "Kancane kancane"
+    },
+    "speak_on_stop": {
+      "en": "Speak on stop"
+    },
+    "speak_words": {
+      "en": "Speak words"
     },
     "speech": {
       "af": "Spraak",
@@ -5944,6 +6100,9 @@
       "zh-CN": "<b>语音设置</b>",
       "zu": "<b>Izilungiselelo Zenkulumo</b>"
     },
+    "speech_volume": {
+      "en": "Speech volume"
+    },
     "speed": {
       "af": "Spoed",
       "ar": "سرعة",
@@ -6084,6 +6243,9 @@
       "zh-CN": "重新开始",
       "zu": "Qala kabusha"
     },
+    "steering_method": {
+      "en": "Steering Method"
+    },
     "stop": {
       "ar": "قف",
       "bn": "থামুন",
@@ -6113,6 +6275,9 @@
       "ur": "رک جاؤ",
       "zh-CN": "停止",
       "zu": "Ima"
+    },
+    "stop_speaking": {
+      "en": "Stop speaking"
     },
     "system": {
       "af": "Stelsel",
@@ -6407,8 +6572,26 @@
       "en": "time under Preferences → Privacy.",
       "fr": "moment dans Préférences → Confidentialité."
     },
+    "toggle_control_mode": {
+      "en": "Toggle control mode"
+    },
+    "toggle_game_mode": {
+      "en": "Toggle game mode"
+    },
+    "toggle_keyboard_mode": {
+      "en": "Toggle keyboard mode"
+    },
+    "toggle_pane_position": {
+      "en": "Toggle pane position"
+    },
+    "toggle_status_bar": {
+      "en": "Hide/show status bar"
+    },
     "toolbar_copy_description": {
       "en": "Copy all text"
+    },
+    "toolbar_cut_description": {
+      "en": "Cut selection in target app"
     },
     "toolbar_game_description": {
       "en": "Start game mode"
@@ -6481,6 +6664,12 @@
       "zh-CN": "打开文件",
       "zu": "Vula ifayela"
     },
+    "toolbar_paste_description": {
+      "en": "Paste into target app"
+    },
+    "toolbar_reanchor_description": {
+      "en": "Re-anchor predictions to the caret (read the sentence around your cursor)"
+    },
     "toolbar_save_description": {
       "af": "Stoor na lêer",
       "ar": "حفظ في ملف",
@@ -6514,6 +6703,9 @@
       "ur": "فائل میں محفوظ کریں۔",
       "zh-CN": "保存到文件",
       "zu": "Londoloza kufayela"
+    },
+    "toolbar_select_all_description": {
+      "en": "Select all in target app"
     },
     "toolbar_settings_description": {
       "en": "Open settings"
@@ -7086,6 +7278,12 @@
       "zh-CN": "已尽可能删除训练数据 — {0} 项失败；请再次点击重置以重试",
       "zu": "Kususwe idatha yokuqeqeshwa lapho kungenzeka khona — {0}izinto zehlulekile; cindezela okuthi Setha kabusha futhi ukuze uzame futhi"
     },
+    "tts_engine": {
+      "en": "TTS Engine"
+    },
+    "tts_no_credentials": {
+      "en": "No credentials required"
+    },
     "turbo": {
       "ar": "توربيني",
       "bn": "টার্বো",
@@ -7149,6 +7347,12 @@
     "typing_rate_format": {
       "en": "{cps} cps · {wpm} wpm"
     },
+    "udp_port": {
+      "en": "UDP Port"
+    },
+    "udp_tracker_help": {
+      "en": "UDP tracker listens for STREAM_DATA or GazePoint messages"
+    },
     "use_dasher_as_your_keyboard": {
       "af": "Gebruik Dasher as jou sleutelbord",
       "ar": "استخدم داشر كلوحة مفاتيح",
@@ -7183,6 +7387,9 @@
       "ur": "Dasher کو اپنے کی بورڈ کے بطور استعمال کریں۔",
       "zh-CN": "使用 Dasher 作为键盘",
       "zu": "Sebenzisa i-Dasher njengekhibhodi yakho"
+    },
+    "volume": {
+      "en": "Volume"
     },
     "we_found_your_dasher_5_configuration_on_this_mac_your_alphab": {
       "af": "Ons het jou Dasher 5-konfigurasie op hierdie Mac gevind. Jou alfabet, kleure, spoedinstellings en persoonlike lêers kan in Dasher 6 ingevoer word.",
@@ -7253,6 +7460,9 @@
       "ur": "جو ملا",
       "zh-CN": "发现了什么",
       "zu": "Lokho okutholiwe"
+    },
+    "wpm_idle": {
+      "en": "0 wpm"
     },
     "x_range": {
       "af": "X-reeks:",
