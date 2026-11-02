@@ -262,6 +262,12 @@
       "zh-CN": "自动适应速度",
       "zu": "Lungisa Isivinini Ngokuzenzakalelayo"
     },
+    "advanced_logging": {
+      "en": "Advanced logging"
+    },
+    "advanced_logging_help": {
+      "en": "Detailed diagnostic logging for bug reports (per-sample eye-tracker lines, keystroke traces, UIA reads). Basic connection events are always logged. May generate large log files."
+    },
     "advanced_settings": {
       "af": "Gevorderde instellings",
       "ar": "الإعدادات المتقدمة",
@@ -1269,6 +1275,9 @@
       "ur": "صاف",
       "zh-CN": "清除",
       "zu": "Sula"
+    },
+    "clear_logs": {
+      "en": "Clear logs"
     },
     "click_to_set_up_keyboard_mode_needs_ydotool": {
       "af": "Klik om sleutelbordmodus op te stel (benodig ydotool)",
