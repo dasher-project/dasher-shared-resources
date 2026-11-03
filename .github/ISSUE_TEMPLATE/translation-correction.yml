@@ -1,0 +1,86 @@
+name: Translation correction
+description: Report a wrong, unclear, or awkward translation in any language
+title: "[Translation] "
+labels: ["translation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping make Dasher readable in your language!
+        Corrections land in the shared catalogue (`ui-strings.json`) and
+        propagate to every platform (Apple, Windows, GTK, Android) on their
+        next translation sync.
+
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language
+      description: Which language is the correction for?
+      options:
+        - Afrikaans (af)
+        - Arabic (ar)
+        - Bengali (bn)
+        - Czech (cs)
+        - Danish (da)
+        - German (de)
+        - Greek (el)
+        - Spanish (es)
+        - Persian (fa)
+        - Finnish (fi)
+        - French (fr)
+        - Gujarati (gu)
+        - Hindi (hi)
+        - Hungarian (hu)
+        - Italian (it)
+        - Kannada (kn)
+        - Malayalam (ml)
+        - Marathi (mr)
+        - Dutch (nl)
+        - Polish (pl)
+        - Portuguese (pt)
+        - Portuguese - Portugal (pt-PT)
+        - Russian (ru)
+        - Swedish (sv)
+        - Swahili (sw)
+        - Tamil (ta)
+        - Telugu (te)
+        - Thai (th)
+        - Urdu (ur)
+        - Chinese - Simplified (zh-CN)
+        - Zulu (zu)
+        - Other (describe below)
+    validations:
+      required: true
+
+  - type: input
+    id: phrase
+    attributes:
+      label: Word or phrase as it appears in Dasher
+      description: Copy the exact text you saw.
+      placeholder: e.g. "Coche"
+    validations:
+      required: true
+
+  - type: textarea
+    id: correction
+    attributes:
+      label: Suggested correction
+      description: The correct word or phrase for that meaning.
+      placeholder: e.g. "Automático"
+    validations:
+      required: true
+
+  - type: input
+    id: where
+    attributes:
+      label: Where did you see it?
+      description: Which part of the app or which platform (macOS, iOS, Windows, GTK, Android, watch).
+      placeholder: e.g. Speed toolbar toggle, macOS
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Anything else?
+      description: Why the current wording is wrong or misleading, or regional notes.
