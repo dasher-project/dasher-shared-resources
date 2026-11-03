@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Bug report
+    url: https://github.com/dasher-project/Dasher-Apple/issues/new/choose
+    about: App bugs belong in the platform repos (Dasher-Apple, Dasher-Windows, Dasher-GTK, Dasher-Android)
