@@ -13762,6 +13762,12 @@
     },
     "check_for_updates": {
       "en": "Check for updates"
+    },
+    "reanchor_context": {
+      "en": "Re-anchor context"
+    },
+    "select_all": {
+      "en": "Select All"
     }
   }
 }
