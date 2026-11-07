@@ -13759,6 +13759,9 @@
       "ur": "آپ کی نگاہوں کو مسلسل ٹریک کیا جاتا ہے جب آپ چوٹکی لگاتے اور پکڑتے ہیں — اس طرح تمام visionOS gaze ایپس کام کرتی ہیں۔",
       "zh-CN": "仅当您捏捏并按住时，才会持续跟踪您的视线 - 这就是所有visionOS 视线应用程序的工作原理。",
       "zu": "Ukubuka kwakho kulandelwa njalo kuphela ngenkathi ucindezela futhi ubamba — yile ndlela zonke izinhlelo zokusebenza ze-visionOS gaze ezisebenza ngayo."
+    },
+    "check_for_updates": {
+      "en": "Check for updates"
     }
   }
 }
